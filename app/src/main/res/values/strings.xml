@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HappinessLevelSurvey</string>
+    <string name="created_by_ronald_bagaporo_jr">Created by Ronald Bagaporo Jr.</string>
+    <string name="take_survey">Take Survey</string>
+    <string name="instructions">Instructions</string>
+    <string name="confirm">Survey Dialog Fragment</string>
+    <string name="survey_title">Please make a choice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
